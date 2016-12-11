@@ -1,4 +1,4 @@
-Overview
+Algorithms Assignment 2
 
 Many companies use recommender systems to suggest products, information, and friends to their customers . These systems analyse usage patterns to suggest what a user would prefer from among a collection of things he has never experienced. For example, fig.1 shows Amazon’s recommendations based on a user’s activity (e.g. other movies they’ve rated etc.).
 Amazon RecommendationsAmazon Recommendations
